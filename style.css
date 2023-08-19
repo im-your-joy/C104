@@ -1,0 +1,33 @@
+#head{
+    background-color: pink;
+}
+
+#body{
+    background-color: pink;
+}
+
+#ptag{
+    color: black;
+}
+
+#btag{
+    
+    font-weight: 800;
+}
+
+#camera{
+    border: 2px dashed salmon;
+    width: 360px;
+    height: 300px;
+}
+
+#result{
+    border: 2.5px dashed greenyellow;
+    width: 360px;
+    height: 300px;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
